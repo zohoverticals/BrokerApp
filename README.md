@@ -1,0 +1,2 @@
+# BrokerApp
+This Repo contains the source code for the Broker Application(middleware) which incorporate the Subscription APIs of the Vertical Application to implement the Custom Subscription Management functionality for the Vertical App Customers to self provisioning and managing their subscriptions/license. This project uses Zoho Subscription as a Subscription management software and uses catalyst as the development infrastructure to build and host this application. 
